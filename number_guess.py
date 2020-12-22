@@ -11,3 +11,4 @@ while True:                        # бесконечный цикл
     elif number < predict: print (f"Угадываемое число меньше {predict} ")
         
 print (f"Вы угадали число {number} за {count} попыток.")
+//hello
